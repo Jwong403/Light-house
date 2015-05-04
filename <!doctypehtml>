@@ -1,0 +1,41 @@
+<!doctypehtml>
+<html>
+<Head>
+  <title> Jacky is the Coolest</title>
+   <link rel="stylesheet" href="Style.css">
+</Head>
+  <body>
+    <header>   
+        <strong> Jacky Wong's blog </strong> 
+          <img src="http://s.mlkshk.com/r/U033">
+    </header>      
+        <section>
+          <h1> <em> I love webpages </em> </h1>
+          <h2>2015-04-13</h2>
+          <h3> <span style="color: red;"> By: Jacky Wong </span> </h3>
+          <img src="http://placekitten.com/200/150">
+        </section>  
+    <article>
+      <p> This website is going to be so awesome that people will want to buy this webpage when it is completed. Errrbody is going to be jealous.</p>
+      <p> <strong> Benny and Raymond love to Kiss each other.</strong> </p>
+      <p> <em> Benny and Raymond are jelly.</em> </p>
+    </article>          
+  <aside> 
+    <section>
+      <h4> My Pet </h4>
+        <p> Lucky </p>
+    </section>     
+    <section>
+      <h4> My Favourite Colour </h4>
+        <p>class="Blue"</p>
+    </section>    
+    <section>
+      <ul> Bucket List
+        <li>Drive a Aventador</li>
+        <li>Graduate from University</li>
+        <li>Be a Baller</li>
+      </ul>
+    </section>
+  </aside>    
+</body>
+</html>

@@ -1,0 +1,30 @@
+section h4 {
+  color: blue;
+}
+section {
+  font-family: "Arial";
+  text-decoration: underline;
+  color: black;
+  line-height: 100%;
+  border: solid;
+  width: 50%;
+  text-align: center;
+}
+article {
+  padding-left: 48px;
+}
+.red {
+  color:#e81c1f;
+}
+section ul {
+  list-style-type: circle;
+}
+body {
+background-color:#999999;
+border-radius: 25px;
+border: solid; 
+text-align: center;
+}
+header {
+  overflow: hidden;
+}
